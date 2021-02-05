@@ -3,3 +3,4 @@ adicionando nova linha
 adicionando a terceira linha
 2+2+2+2+2+2+2+2+2 
 ****************************
+inclusao de novo trecho no arquivo
